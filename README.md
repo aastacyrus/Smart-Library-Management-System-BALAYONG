@@ -15,4 +15,11 @@ Course: BSIT
 
 Section: SD-2C
 
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
+
+
 
