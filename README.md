@@ -7,3 +7,4 @@ Project Modules
 - Inventory Management
 - Reports
 - User Accounts
+_Last updated during GitHub Actions laboratory._
